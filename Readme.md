@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Яблочкин](https://up.htmlacademy.ru/javascript/17/user/46508).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Самойленко](https://htmlacademy.ru/profile/id999539).
 
 ---
 
